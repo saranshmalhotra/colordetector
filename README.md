@@ -8,5 +8,4 @@ Now use the folowing command;
 You can also use the sample picture given in the project file.
 You Don't need to put full Image Path for images in the project file/folder.
 Enjoy Learning
--Saransh Malhotra
-Physicist.
+
